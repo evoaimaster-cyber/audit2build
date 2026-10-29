@@ -80,7 +80,9 @@ SNSへの自動投稿、広告アカウントの操作、POSとの自動連携�
 
 ## お問い合わせ
 
-[BizAI-Evo](https://bizai-evo.com/) ／ [メールで相談](mailto:info@bizai-evo.com)
+お問い合わせメール：**[info@bizai-evo.com](mailto:info@bizai-evo.com)**
+
+[BizAI-Evo](https://bizai-evo.com/)
 
 更新日：2026年10月29日
 
